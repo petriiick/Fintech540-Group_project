@@ -8,7 +8,7 @@ This is repo for a Machine learning Model-building project that takes cryptocurr
 
 
 ## Motivation:
-Machine learning in finance is now considered a key aspect of several financial services and applications, including managing assets, evaluating levels of risk, calculating credit scores, and even approving loans. Machine learning is a subset of data science that provides the ability to learn and improve from experience without being programmed.
+Machine learning in finance is now considered a key aspect of several financial services and applications, including managing assets, evaluating levels of risk, calculating credit scores, and even approving loans. Machine learning is a subset of data science that provides the ability to learn and improve from experience without being programmed.\
 In this project, we will explore some possible ways that how unsupervised learnig algorithms(Clustering) could be applied on cryptocurrency and access their performance to find out whether there are some interesting discoveries.
 
 ## Take a peep into our dataset:
