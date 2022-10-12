@@ -37,3 +37,5 @@ We might not try out all machine learning algorithms at the first stage. We migh
 - [ ] Interpret the results
 - [ ] Make PPT
 
+## Problems we're facing
+
