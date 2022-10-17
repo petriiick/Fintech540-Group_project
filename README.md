@@ -22,9 +22,9 @@ For dataset, we have `1243590` entries and `12` columns:
 > - `quote.USD.low` : 
 > - `quote.USD.close` :
 > - `quote.USD.volume` : 
-> - `quote.USD.market_cap` : 
+> - `quote.USD.market_cap` : The total market value of a cryptocurrency's circulating supply. It is analogous to the free-float capitalization in the stock market.
 > - `quote.USD.timestamp` :
-> - `symbol` :
+> - `symbol` : The symbol of cryptocurrency
 > - `id` :
 
 ## Addtional Notes:
