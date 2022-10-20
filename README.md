@@ -6,6 +6,10 @@ This is repo for a Machine learning Model-building project that takes cryptocurr
 ## Architecture:
 <img width="1000" alt="WeChat21a3a4952e0b415c9d0456e469408f09" src="https://user-images.githubusercontent.com/112578107/194975053-7ac343ea-93f5-4415-8840-c7309958070c.png">
 
+##Requirements
+1.one model
+2.focus on one kind of crypocurrency or top 50/100 market cap
+3.Deadline of presentation: 11/17/2022
 
 ## Motivation:
 Machine learning in finance is now considered a key aspect of several financial services and applications, including managing assets, evaluating levels of risk, calculating credit scores, and even approving loans. Machine learning is a subset of data science that provides the ability to learn and improve from experience without being programmed.\
