@@ -8,8 +8,8 @@ This is repo for a Machine learning Model-building project that takes cryptocurr
 
 ## Requirements
 1.one model
-2.focus on one kind of crypocurrency or top 50/100 market cap
-3.Deadline of presentation: 11/17/2022
+2.focus on one kind of crypocurrency or `top 50/100 market cap`
+3.Deadline of presentation: `11/17/2022`
 
 ## Motivation:
 Machine learning in finance is now considered a key aspect of several financial services and applications, including managing assets, evaluating levels of risk, calculating credit scores, and even approving loans. Machine learning is a subset of data science that provides the ability to learn and improve from experience without being programmed.\
@@ -34,12 +34,15 @@ For dataset, we have `1243590` entries and `12` columns:
 ## Addtional Notes:
 We might not try out all machine learning algorithms at the first stage. We might focus on unsupervised learning algorithm such as `clustering`.
 
-## Progress:
+## Overall Progress:
 - [x] README file and some EDA work
-- [ ] Assign works
+- [x] Assign works
 - [ ] Building models 
 - [ ] Interpret the results
 - [ ] Make PPT
 
 ## Problems we're facing
+
+## Heyyy! Write your own progress here!👻
+Patrick Duan:
 
