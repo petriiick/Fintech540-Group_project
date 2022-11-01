@@ -6,6 +6,13 @@ This is repo for a Machine learning Model-building project that takes cryptocurr
 ## Architecture:
 <img width="1000" alt="WeChat21a3a4952e0b415c9d0456e469408f09" src="https://user-images.githubusercontent.com/112578107/194975053-7ac343ea-93f5-4415-8840-c7309958070c.png">
 
+Reggression (1 MODEL- liner regression: 2-3 people):
+1. Fuction: As a benchmark to prove clusterings will be better.
+2. Tasks:
+   a. We need to have factors which bring influence on our cryptocurrencies' price. (S&P500, etc...)
+   b. Choose three cryptocurrency to present
+   c. Finish in one week
+
 ## Requirements
 1.one model
 2.focus on one kind of crypocurrency or `top 50/100 market cap`
