@@ -51,5 +51,12 @@ We might not try out all machine learning algorithms at the first stage. We migh
 ## Problems we're facing
 
 ## Heyyy! Write your own progress here!👻
-Patrick Duan:
+Patrick Duan: 
+- K-means finished
+- I did some EDA work and feature engineering on our data 
+   - extract minute and sec as new features from time_high and time_low
+   - drop other categorical columns
+   - stanardize all numerical columns since distance matters in our model
+- Remain to do:
+   - result intepretation
 
