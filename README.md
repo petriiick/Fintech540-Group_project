@@ -26,8 +26,8 @@ In this project, we will explore some possible ways that how unsupervised learni
 You can find out dataset here: web_link
 For dataset, we have `1243590` entries and `12` columns:
 > - `time_open` : 
-> - `time_high` :
-> - `time_low` :
+> - `time_high` : Time cryptocurrency reachs highest price.
+> - `time_low` :Time cryptocurrency reachs lowest price.
 > - `quote.USD.open` : 
 > - `quote.USD.high` : 
 > - `quote.USD.low` : 
@@ -36,7 +36,7 @@ For dataset, we have `1243590` entries and `12` columns:
 > - `quote.USD.market_cap` : The total market value of a cryptocurrency's circulating supply. It is analogous to the free-float capitalization in the stock market.
 > - `quote.USD.timestamp` :
 > - `symbol` : The symbol of cryptocurrency
-> - `id` :
+> - `id` : With symbol, they are the unique id for cryptocurrency.
 
 ## Addtional Notes:
 We might not try out all machine learning algorithms at the first stage. We might focus on unsupervised learning algorithm such as `clustering`.
