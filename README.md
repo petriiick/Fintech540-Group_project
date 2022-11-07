@@ -53,10 +53,11 @@ We might not try out all machine learning algorithms at the first stage. We migh
 ## Heyyy! Write your own progress here!👻
 Patrick Duan: 
 - K-means finished
+![inertia_vs_k_plot](https://user-images.githubusercontent.com/112578107/200401361-a8a96a2c-679e-4e1c-b737-dcfce317a1a4.png)
 - I did some EDA work and feature engineering on our data 
    - extract minute and sec as new features from time_high and time_low
    - drop other categorical columns
    - stanardize all numerical columns since distance matters in our model
 - Remain to do:
-   - result intepretation
+   - result interpretation
 
