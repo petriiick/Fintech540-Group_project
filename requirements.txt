@@ -2,3 +2,8 @@ torch
 tensorflow
 keras
 pandas
+numpy
+pandas-datareader
+sklearn
+yfinance
+matplotlib
