@@ -61,7 +61,8 @@ Patrick Duan:
 - Remain to do:
    - result interpretation
    
-##DEA FOR CLustering
+## DEA FOR CLustering
+Stacey Fang:
 
 <img width="454" alt="Check_FinalType" src="https://user-images.githubusercontent.com/102479706/201259495-5848660b-e5cb-4e2e-adf7-b4bdf76caf77.png">
 <img width="430" alt="CheckNull" src="https://user-images.githubusercontent.com/102479706/201259506-9a79bc5f-faca-459c-895d-eb384e4dda2b.png">
@@ -69,6 +70,10 @@ Patrick Duan:
 <img width="1008" alt="Description" src="https://user-images.githubusercontent.com/102479706/201259516-05a4aaa5-1004-4b54-badf-510676a895cb.png">
 <img width="430" alt="All_Coin" src="https://user-images.githubusercontent.com/102479706/201259536-2fc31e51-12eb-41d6-9a50-16f3bbaf2ff5.png">
 
+-DEF for whole dataset finished
 
+Next Step:
+1. Determine Coin we want to use 
+2. Draw box-plot, Histogram, Kernel density, Q-Q plot, and etc
 
 ## Overall Progress:
