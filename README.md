@@ -71,9 +71,11 @@ Stacey Fang:
 <img width="430" alt="All_Coin" src="https://user-images.githubusercontent.com/102479706/201259536-2fc31e51-12eb-41d6-9a50-16f3bbaf2ff5.png">
 
 -EDA for whole dataset finished
+Yiwei & Stacey 
+## Selected Coins- "BTC_1","ETH_1027", "BNB_1839", "ADA_2010"
 
-Next Step:
-1. Determine Coin we want to use 
-2. Draw box-plot, Histogram, Kernel density, Q-Q plot, and etc
+<img width="460" alt="boxplot" src="https://user-images.githubusercontent.com/102479706/201457312-bb6cc11e-5b22-40e4-be1d-154625346c40.png">
+<img width="478" alt="selectedCoin_Description" src="https://user-images.githubusercontent.com/102479706/201457314-c2876085-0746-4534-ba47-23854d2c52ce.png">
+
 
 ## Overall Progress:
