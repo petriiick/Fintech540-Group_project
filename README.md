@@ -62,6 +62,15 @@ Patrick Duan:
    - result interpretation
    
 ## EDA FOR CLustering
+Chenxi Rong and Yiwei Cheng:
+- What we mainly did are the steps before Stacey's fancy plots!
+   - checked the raw data and dropped the missing values after testing.
+   - added a new column representing the symbol and id.
+   - extracted the date from time stamp.
+   - drawing the rough plot and made a few assumptions about clustering.
+- Remain to do:
+   - building up new models
+
 Stacey Fang:
 
 <img width="454" alt="Check_FinalType" src="https://user-images.githubusercontent.com/102479706/201259495-5848660b-e5cb-4e2e-adf7-b4bdf76caf77.png">
