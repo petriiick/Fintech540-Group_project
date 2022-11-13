@@ -51,7 +51,8 @@ We might not try out all machine learning algorithms at the first stage. We migh
 ## Problems we're facing
 
 ## Heyyy! Write your own progress here!👻
-Patrick Duan: 
+#### Patrick Duan
+
 - K-means finished
 ![inertia_vs_k_plot](https://user-images.githubusercontent.com/112578107/200401361-a8a96a2c-679e-4e1c-b737-dcfce317a1a4.png)
 - I did some EDA work and feature engineering on our data 
@@ -61,8 +62,11 @@ Patrick Duan:
 - Remain to do:
    - result interpretation
    
-## EDA FOR CLustering
-Chenxi Rong and Yiwei Cheng:
+
+
+
+#### Chenxi Rong & Yiwei Cheng
+
 - What we mainly did are the steps before Stacey's fancy plots!
    - checked the raw data and dropped the missing values after testing.
    - added a new column representing the symbol and id.
@@ -71,7 +75,7 @@ Chenxi Rong and Yiwei Cheng:
 - Remain to do:
    - building up new models
 
-Stacey Fang:
+#### Stacey Fang
 
 <img width="454" alt="Check_FinalType" src="https://user-images.githubusercontent.com/102479706/201259495-5848660b-e5cb-4e2e-adf7-b4bdf76caf77.png">
 <img width="430" alt="CheckNull" src="https://user-images.githubusercontent.com/102479706/201259506-9a79bc5f-faca-459c-895d-eb384e4dda2b.png">
@@ -81,10 +85,23 @@ Stacey Fang:
 
 -EDA for whole dataset finished
 
+#### Zhuo Yang
+
+- On the basis of Steven's multi-model fitting, **random forest** was selected for further optimization.
+  1. Pull BTC price data directly in the parquet file
+  2. Routine and targeted data processing
+  3. Select a group of seven days for data restructuring in order to extract feature values
+  4. Extract feature values using **tsfresh**
+  5. Use **train_test_split** to partition the data into training and testing sets
+  6. Training Model
+  7. Using the model to make predictions
+  8. Evaluate models through numerical evaluation and visualization
+
+#### Yiwei Cheng & Stacey Fang
+
+Selected Coins- "BTC_1","ETH_1027", "BNB_1839", "ADA_2010"
 
 
-## Selected Coins- "BTC_1","ETH_1027", "BNB_1839", "ADA_2010"
-Yiwei & Stacey 
 
 <img width="460" alt="boxplot" src="https://user-images.githubusercontent.com/102479706/201457312-bb6cc11e-5b22-40e4-be1d-154625346c40.png">
 <img width="478" alt="selectedCoin_Description" src="https://user-images.githubusercontent.com/102479706/201457314-c2876085-0746-4534-ba47-23854d2c52ce.png">
