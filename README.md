@@ -74,6 +74,12 @@ We might not try out all machine learning algorithms at the first stage. We migh
    - drawing the rough plot and made a few assumptions about clustering.
 - Remain to do:
    - building up new models
+   
+#### Yiwei Cheng
+
+- worked with Stacey and Chenxi for EDA before clustering
+- Did GMM and DBSCAN model with the data frame after Petrick's feature engineering
+- Wrote Powerpoint slides for DBSCAN and revised some format problems of the presentation slides
 
 #### Stacey Fang
 
