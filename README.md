@@ -79,7 +79,11 @@ We might not try out all machine learning algorithms at the first stage. We migh
 
 - worked with Stacey and Chenxi for EDA before clustering
 - Did GMM and DBSCAN model with the data frame after Petrick's feature engineering
-- Wrote Powerpoint slides for DBSCAN and revised some format problems of the presentation slides
+   - GMM Package
+   - DBSCAN: find and visualize the best EPS and min_samples
+   - DBSCAN result: With eps=1.5, min samples=4, and data= df[0: 10000], we have 3 clusters: cluster 0, cluster 1, and cluster 2
+   - DBSCAN result: Cluster -1 is the noise
+- Wrote Powerpoint slides for introduction, interpretation, and conclusion of DBSCAN model and revised some format problems of the presentation slides
 
 #### Stacey Fang
 
